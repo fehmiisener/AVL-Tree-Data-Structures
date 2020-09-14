@@ -78,7 +78,7 @@ Project Link: [AVL-Tree-Data-Structures](https://github.com/fehmisener/AVL-Tree-
 [issues-shield]: https://img.shields.io/github/issues/fehmisener/AVL-Tree-Data-Structures?style=flat-square
 [issues-url]: https://github.com/fehmisener/AVL-Tree-Data-Structures/issues
 [license-shield]: https://img.shields.io/github/license/fehmisener/AVL-Tree-Data-Structures?style=flat-square
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[license-url]: https://github.com/fehmisener/AVL-Tree-Data-Structures/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
