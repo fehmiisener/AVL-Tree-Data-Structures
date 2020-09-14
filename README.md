@@ -10,7 +10,7 @@
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [AVL Tree](#avl-tree)
-  * [Why AVL Trees?](#why-avl-trees-?)
+  * [Why AVL Trees?](#why-avl-trees?)
 * [Usage](#usage)
 * [License](#license)
 * [Contact](#contact)
