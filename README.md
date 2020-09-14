@@ -52,7 +52,7 @@ Distributed under the GNU General Public License v3.0. See `LICENSE` for more in
 
 ## Contact
 
-[@twitter](https://twitter.com/fehmiisener)  
+Twitter: [twitter.com/fehmiisener](https://twitter.com/fehmiisener)  
 Mail: fehmiisener@gmail.com  
 Project Link: [AVL-Tree-Data-Structures](https://github.com/fehmisener/AVL-Tree-Data-Structures)
 
