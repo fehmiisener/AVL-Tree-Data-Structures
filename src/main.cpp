@@ -45,12 +45,6 @@ void travelLevelOrder(nodeTree*,int); //level level ağaca girer
 void setLevel(nodeTree*, int ,int ,int ); // bulunduğu levelde ki nodelere konum atar
 
 
-
-
-
-
-
-
 int main()
 {	
   		
