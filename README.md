@@ -42,9 +42,20 @@ Most of the BST operations (e.g., search, max, min, insert, delete.. etc) take O
 
 ## Usage
 
-_For more examples, please refer to the [Documentation](https://en.wikipedia.org/wiki/AVL_tree)_
-
-<!-- LICENSE -->
+1. Get a MinGW at [HERE](http://www.mingw.org/) and Install
+2. Open file folder from command line
+```sh
+cd desktop/AVL-Tree-Data-Structures
+```
+3. Run Makefile for compile process
+```sh
+mingw32-make
+```
+4. Open bin folder from command line or file explorer
+```
+cd..
+program.exe
+```
 
 ## License
 
@@ -56,19 +67,6 @@ Twitter: [twitter.com/fehmiisener](https://twitter.com/fehmiisener)
 Mail: fehmiisener@gmail.com  
 Project Link: [AVL-Tree-Data-Structures](https://github.com/fehmisener/AVL-Tree-Data-Structures)
 
-## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
-
 [contributors-shield]: https://img.shields.io/github/contributors/fehmisener/AVL-Tree-Data-Structures.svg?style=flat-square
 [contributors-url]: https://github.com/fehmisener/AVL-Tree-Data-Structures/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/fehmisener/AVL-Tree-Data-Structures?style=flat-square
@@ -79,6 +77,4 @@ Project Link: [AVL-Tree-Data-Structures](https://github.com/fehmisener/AVL-Tree-
 [issues-url]: https://github.com/fehmisener/AVL-Tree-Data-Structures/issues
 [license-shield]: https://img.shields.io/github/license/fehmisener/AVL-Tree-Data-Structures?style=flat-square
 [license-url]: https://github.com/fehmisener/AVL-Tree-Data-Structures/blob/master/LICENSE
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
