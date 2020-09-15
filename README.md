@@ -19,7 +19,8 @@
 ## About The Project
 
 This project is the implementation of one of the data structures "AVL Tree".  
-If you are someone who is interested in data structures, trees, one of the first structures that come to your mind, are very important to us. For this reason, I implemented AVL trees in order to learn these structures better and to improve myself and I am sharing them with you.
+If you are someone who is interested in data structures, trees, one of the first structures that come to your mind, are very important to us. For this reason, I implemented AVL trees in order to learn these structures better and to improve myself and I am sharing them with you.  
+**In addition to other AVL Tree implementation, it also stores the movement of nodes in the stack.**
 
 ### Built With
 
