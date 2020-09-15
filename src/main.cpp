@@ -11,7 +11,6 @@
 
 using namespace std;
 
-#include "../include/person.h"
 #include "../include/stack.h"
 
 typedef struct nodeTree
@@ -87,12 +86,12 @@ int main()
 		return 1;
 }
 
-nodeTree * insert(nodeTree *node,int dataPerson)
+nodeTree * insert(nodeTree *node,int data)
 {
 	if(node==NULL)
 	{
 		node=(nodeTree*)malloc(sizeof(nodeTree));
-		node->data=dataPerson;
+		node->data=data;
 		node->left=NULL;
 		node->right=NULL;
 		node->oldheightNode=-1;
@@ -100,22 +99,22 @@ nodeTree * insert(nodeTree *node,int dataPerson)
 	}
 	else
 	{
-		if(dataPerson > node->data)	
+		if(data > node->data)	
 		{
-			node->right=insert(node->right,dataPerson);
+			node->right=insert(node->right,data);
 			if(getBalance(node)==-2)
-				if(dataPerson>node->right->data)
+				if(data>node->right->data)
 					node=rightRight(node);
 				else
 					node=rightLeft(node);
 		}
 		else
 		{
-			if(dataPerson<node->data || dataPerson==node->data)
+			if(data<node->data || data==node->data)
 			{
-				node->left=insert(node->left,dataPerson);
+				node->left=insert(node->left,data);
 				if(getBalance(node)==2)
-					if(dataPerson < node->left->data || dataPerson == node->left->data )
+					if(data < node->left->data || data == node->left->data )
 						node=leftLeft(node);
 					else
 						node=leftRight(node);
