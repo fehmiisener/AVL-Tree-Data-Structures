@@ -54,7 +54,8 @@ mingw32-make
 ```
 4. Open bin folder from command line or file explorer
 ```
-cd..
+cd.. / for move back folder
+cd bin
 program.exe
 ```
 
