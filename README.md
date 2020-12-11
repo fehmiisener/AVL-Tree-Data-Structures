@@ -24,7 +24,6 @@ If you are someone who is interested in data structures, trees, one of the first
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [C++](https://isocpp.org)
 * [Makefile](https://www.gnu.org/software/make/manual/make.html)
 
@@ -69,14 +68,14 @@ Twitter: [twitter.com/fehmiisener](https://twitter.com/fehmiisener)
 Mail: fehmiisener@gmail.com  
 Project Link: [AVL-Tree-Data-Structures](https://github.com/fehmisener/AVL-Tree-Data-Structures)
 
-[contributors-shield]: https://img.shields.io/github/contributors/fehmisener/AVL-Tree-Data-Structures.svg?style=flat-square
-[contributors-url]: https://github.com/fehmisener/AVL-Tree-Data-Structures/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/fehmisener/AVL-Tree-Data-Structures?style=flat-square
-[forks-url]: https://github.com/fehmisener/AVL-Tree-Data-Structures/network/members
-[stars-shield]: https://img.shields.io/github/stars/fehmisener/AVL-Tree-Data-Structures?style=flat-square
-[stars-url]: https://github.com/fehmisener/AVL-Tree-Data-Structures/stargazers
-[issues-shield]: https://img.shields.io/github/issues/fehmisener/AVL-Tree-Data-Structures?style=flat-square
-[issues-url]: https://github.com/fehmisener/AVL-Tree-Data-Structures/issues
-[license-shield]: https://img.shields.io/github/license/fehmisener/AVL-Tree-Data-Structures?style=flat-square
-[license-url]: https://github.com/fehmisener/AVL-Tree-Data-Structures/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/fehmiisener/AVL-Tree-Data-Structures.svg?style=flat-square
+[contributors-url]: https://github.com/fehmiisener/AVL-Tree-Data-Structures/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/fehmiisener/AVL-Tree-Data-Structures?style=flat-square
+[forks-url]: https://github.com/fehmiisener/AVL-Tree-Data-Structures/network/members
+[stars-shield]: https://img.shields.io/github/stars/fehmiisener/AVL-Tree-Data-Structures?style=flat-square
+[stars-url]: https://github.com/fehmiisener/AVL-Tree-Data-Structures/stargazers
+[issues-shield]: https://img.shields.io/github/issues/fehmiisener/AVL-Tree-Data-Structures?style=flat-square
+[issues-url]: https://github.com/fehmiisener/AVL-Tree-Data-Structures/issues
+[license-shield]: https://img.shields.io/github/license/fehmiisener/AVL-Tree-Data-Structures?style=flat-square
+[license-url]: https://github.com/fehmiisener/AVL-Tree-Data-Structures/blob/master/LICENSE
 [product-screenshot]: images/screenshot.png
